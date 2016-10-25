@@ -2,7 +2,6 @@
   "main": "constants.js",
   "name": "jspm-nodelibs-constants",
   "version": "0.2.0",
-  "registry": "github",
   "map": {
     "./constants.js": {
       "node": "@node/constants"
